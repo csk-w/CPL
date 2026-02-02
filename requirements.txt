@@ -1,0 +1,33 @@
+faiss-gpu @ file:///home/user/Downloads/faiss_gpu-1.7.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=bfea9ca3a83b2da61aa050c66eba52362b59e1a610c50f18d13cb52d149f4080
+filelock @ file:///croot/filelock_1700591183607/work
+Flask==3.0.3
+frozenlist==1.5.0
+fsspec==2025.3.0
+importlib_metadata==8.5.0
+itsdangerous==2.2.0
+Jinja2 @ file:///croot/jinja2_1716993405101/work
+joblib==1.4.2
+mkl-service==2.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+multidict==6.1.0
+networkx 
+numpy 
+openpyxl==3.2.0b1
+pillow @ file:///croot/pillow_1721059439630/work
+propcache==0.2.0
+psutil==7.0.0
+pyg-lib==0.4.0+pt21cu118
+pyparsing==3.1.4
+python-louvain==0.16
+scikit-learn==1.3.2
+scikit-learn-intelex==2024.5.0
+scipy==1.10.1
+tbb==2021.13.1
+thop==0.1.1.post2209072238
+threadpoolctl==3.5.0
+torch==2.4.0
+torchaudio==2.4.0
+torchvision==0.19.0
+tqdm==4.67.1
+triton==3.0.0
+
