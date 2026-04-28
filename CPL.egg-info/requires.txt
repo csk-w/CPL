@@ -1,0 +1,8 @@
+numpy<=1.26.4
+daal<=2025.5.0
+openpyxl
+tqdm
+scikit-learn>=1.5.0
+scikit-learn-intelex
+faiss-gpu>=1.6.4
+Cython>=0.29.34
