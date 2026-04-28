@@ -1,9 +1,0 @@
-README.md
-setup.py
-3C_reid.egg-info/PKG-INFO
-3C_reid.egg-info/SOURCES.txt
-3C_reid.egg-info/dependency_links.txt
-3C_reid.egg-info/requires.txt
-3C_reid.egg-info/top_level.txt
-CCC/HDC/_HDC_utils.c
-CCC/utils/_rerank.c
